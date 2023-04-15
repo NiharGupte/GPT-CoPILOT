@@ -1,6 +1,6 @@
 # GPT-CoPILOT
 
-- This repository contains code to use ChatGPT and other tools like SerpAPI to automate the code. 
+- This repository contains code to use ChatGPT and other tools like SerpAPI with Langchain to automate the code. 
 - Install requirements.txt using 
 `pip install -r requirements.txt` 
 and then run the command 
